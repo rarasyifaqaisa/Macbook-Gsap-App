@@ -1,4 +1,3 @@
-...existing code...
 # MacBook GSAP App
 
 A small React + Vite demo that showcases a 3D MacBook model with GSAP-powered scroll animations, video/textured screen sync, and interactive product controls.
@@ -73,7 +72,3 @@ Available scripts (from [package.json](package.json)):
 
 ## License
 This repository is a demo/template. See included asset licenses (model source and fonts) inside the project if redistributing.
-
-...existing code...
-{ changed code }
-...existing code...
